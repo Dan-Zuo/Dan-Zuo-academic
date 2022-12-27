@@ -47,7 +47,7 @@ sections:
           company_logo: org-x
           location: ShenZhen
           date_start: '2020-07-01'
-          date_end: '2021-07-25'
+          date_end: '2020-07-25'
           description: |2-
               Responsibilities include:
 
@@ -60,7 +60,7 @@ sections:
           company_logo: org-x
           location: GuangZhou
           date_start: '2021-08-05'
-          date_end: '2022-08-05'
+          date_end: '2021-09-05'
           description: |2-
               Responsibilities include:
 
