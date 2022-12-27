@@ -41,27 +41,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Lecturer
-          company: Guangzhou Huashang Vocational College
-          company_url: ''
-          company_logo: org-gc
-          location: China, Guangzhou
-          date_start: '2021-09-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
 
-              * Responsible for the teaching of financial statement analysis, big data, fund investment, financial laws and other courses.
-              * Preside over scientific research of the faculty team, and engage in other research projects as a core member.	
-              * Join the textbook compilation group and participate in various ability competitions and professional skill trainings
         
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2020-05-01'
-          date_end: '2020-06-31'
+          date_start: '2017-07-01'
+          date_end: '2017-09-31'
           description: Taught electronic engineering and researched semiconductor physics.
 
           - title: Professor of Semiconductor Physics
@@ -78,9 +66,23 @@ sections:
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2017-07-01'
-          date_end: '2017-09-31'
+          date_start: '2020-05-01'
+          date_end: '2020-06-31'
           description: Taught electronic engineering and researched semiconductor physics.
+
+          - title: Lecturer
+          company: Guangzhou Huashang Vocational College
+          company_url: ''
+          company_logo: org-gc
+          location: China, Guangzhou
+          date_start: '2021-09-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Responsible for the teaching of financial statement analysis, big data, fund investment, financial laws and other courses.
+              * Preside over scientific research of the faculty team, and engage in other research projects as a core member.	
+              * Join the textbook compilation group and participate in various ability competitions and professional skill trainings
     design:
       columns: '3'
   - block: accomplishments
