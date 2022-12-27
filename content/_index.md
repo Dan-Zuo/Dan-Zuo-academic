@@ -41,16 +41,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
   
-
-          - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2020-05-01'
-          date_end: '2020-06-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-
           - title: Lecturer
           company: Guangzhou Huashang Vocational College
           company_url: ''
@@ -64,8 +54,16 @@ sections:
               * Responsible for the teaching of financial statement analysis, big data, fund investment, financial laws and other courses.
               * Preside over scientific research of the faculty team, and engage in other research projects as a core member.	
               * Join the textbook compilation group and participate in various ability competitions and professional skill trainings
+          - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2020-05-01'
+          date_end: '2020-06-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '3'
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
