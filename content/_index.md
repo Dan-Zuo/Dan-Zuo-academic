@@ -40,15 +40,7 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-          - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2019-06-01'
-          date_end: '2019-08-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+  
 
           - title: Professor of Semiconductor Physics
           company: University X
