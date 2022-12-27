@@ -40,30 +40,64 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  
-          - title: Lecturer
-          company: Guangzhou Huashang Vocational College
+      items:
+        - title: Data Engineer
+          company: SRCB
           company_url: ''
-          company_logo: org-gc
-          location: China, Guangzhou
-          date_start: '2021-09-01'
+          company_logo: org-x
+          location: ShenZhen
+          date_start: '2020-07-01'
+          date_end: '2021-07-25'
+          description: |2-
+              Responsibilities include:
+
+              * Data Modelling
+              * Data Warehousing
+              * Data Reporting
+        - title: Senior Software Engineer
+          company: HSBC
+          company_url: ''
+          company_logo: org-x
+          location: GuangZhou
+          date_start: '2021-08-05'
+          date_end: '2022-08-05'
+          description: |2-
+              Responsibilities include:
+
+              * Data Modelling
+              * Data Warehousing
+              * Data Security
+
+        - title: Senior Software Engineer
+          company: HSBC
+          company_url: ''
+          company_logo: org-x
+          location: GuangZhou
+          date_start: '2022-08-06'
+          date_end: '2022-12-06'
+          description: |2-
+              Responsibilities include:
+
+              * Data Modelling
+              * Data Warehousing
+              * Data Security
+
+        - title: Senior Software Engineer
+          company: HSBC
+          company_url: ''
+          company_logo: org-x
+          location: GuangZhou
+          date_start: '2023-08-07'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Responsible for the teaching of financial statement analysis, big data, fund investment, financial laws and other courses.
-              * Preside over scientific research of the faculty team, and engage in other research projects as a core member.	
-              * Join the textbook compilation group and participate in various ability competitions and professional skill trainings
-          - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2020-05-01'
-          date_end: '2020-06-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Data Modelling
+              * Data Warehousing
+              * Data Security
+
     design:
-      columns: '2'
+      columns: '3'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
