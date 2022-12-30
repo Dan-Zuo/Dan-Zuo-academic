@@ -45,7 +45,7 @@ sections:
           company: Guangzhou Huashang Vocational College
           company_url: ''
           company_logo: org-x
-          location: Guangzhou·China
+          location: Guangzhou, China
           date_start: '2021-09-01'
           date_end: ''
           description: |2-
@@ -58,7 +58,7 @@ sections:
           company: HSBC
           company_url: ''
           company_logo: org-x
-          location: Guangzhou·China
+          location: Guangzhou, China
           date_start: '2021-08-05'
           date_end: '2021-09-05'
           description: |2-
@@ -68,33 +68,33 @@ sections:
               * Data Warehousing
               * Data Security
 
-        - title: Senior Software Engineer
-          company: HSBC
+        - title: Management Trainee
+          company: South China Normal University Management Office 
           company_url: ''
           company_logo: org-x
-          location: Guangzhou·China
-          date_start: '2022-08-06'
-          date_end: '2022-12-06'
+          location: Guangzhou, China
+          date_start: '2019-06-01'
+          date_end: '2019-08-01'
           description: |2-
               Responsibilities include:
 
-              * Data Modelling
-              * Data Warehousing
-              * Data Security
+              * Responsible for a series of copywriting and report production, put forward analysis reports. 
+              * Responsible for personnel management, personnel training and public relations events. Regularly conduct compliance checks on employees' attendance and work.
+              
 
-        - title: Senior Software Engineer
-          company: HSBC
+        - title: Personal Loan Department and Sales     Department Manager
+          company: ICBC
           company_url: ''
           company_logo: org-x
-          location: Guangzhou·China
-          date_start: '2023-08-07'
-          date_end: ''
+          location: Guangzhou, China
+          date_start: '2017-07-01'
+          date_end: '2017-09-01'
           description: |2-
               Responsibilities include:
 
-              * Data Modelling
-              * Data Warehousing
-              * Data Security
+              * Review, scanning, entry and filing of personal loan customer data, and improve the bank loan database.	
+              * Familiar with banking business, guide and handle business according to customer needs.
+              * Assist the manager to carry out credit investigation and audit, sort out credit files and make data forms.
 
     design:
       columns: '2'
