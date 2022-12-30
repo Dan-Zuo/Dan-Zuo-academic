@@ -135,8 +135,8 @@ sections:
           -- From the standpoint of startups: capital requirement, financing plan, equity dilution, important contract terms, IPO. 
           
           -- POCD Framework, The VC Valuation Method, VC Fund Structure, VC Deal & Decision Pipeline, Capitalization Tables.'
-          # organization:  
-          # organization_url: 
+          organization:  
+          organization_url: 
           title: Research on venture capital and venture financing 
           url: ''
         - certificate_url: https://www.edx.org
@@ -147,8 +147,8 @@ sections:
           -- Use Excel function and VBA function respectively to find the optimal portfolio. Generate efficient frontier and draw
           capital market lines. Use Excel Solver to identify global minimum variance portfolios and tangent portfolios, maximizing
           the Sharpe ratio as a constraint.
-          # organization: edX
-          # organization_url: https://www.edx.org
+          organization: edX
+          organization_url: https://www.edx.org
           title: Asset Management and Fund Allocation
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
