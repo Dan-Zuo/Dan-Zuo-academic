@@ -125,11 +125,11 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2022-07-16'
+          description: '2022-11-16'
+          organization:  
+          organization_url: 
+          title: Research on venture capital and venture financing 
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
