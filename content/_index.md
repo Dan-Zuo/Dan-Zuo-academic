@@ -153,14 +153,14 @@ sections:
           title: Asset Management and Fund Allocation
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2017-01-01'
-          description: '-- Use the prospect theory to analyse individual's choices and irrational behavior in the stock market.'
-          organization: 
-          organization_url: 
-          title: Research on the theory and practice of behavioral finance
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        # - certificate_url: https://www.edx.org
+        #   date_end: ''
+        #   date_start: '2017-01-01'
+        #   description: '-- Use the prospect theory to analyse individual's choices and irrational behavior in the stock market.'
+        #   organization: 
+        #   organization_url: 
+        #   title: Research on the theory and practice of behavioral finance
+        #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
         - certificate_url: https://www.edx.org
           date_end: ''
