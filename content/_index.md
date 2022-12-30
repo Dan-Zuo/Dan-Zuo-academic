@@ -130,13 +130,13 @@ sections:
 
             -- The purpose and motivation behind venture capital and financing. 
 
-           -- From the standpoint of venture capital: venture capital appraisal, investment strategy, angel investment. 
+            -- From the standpoint of venture capital: venture capital appraisal, investment strategy, angel investment. 
 
             -- From the standpoint of startups: capital requirement, financing plan, equity dilution, important contract terms, IPO. 
           
             -- POCD Framework, The VC Valuation Method, VC Fund Structure, VC Deal & Decision Pipeline, Capitalization Tables.'
-          # organization:  
-          # organization_url: 
+          organization:  
+          organization_url: 
           title: Research on venture capital and venture financing 
           url: ''
         - certificate_url: https://www.edx.org
