@@ -138,7 +138,7 @@ sections:
           organization:  
           organization_url: 
           title: Research on venture capital and venture financing 
-          url: ''
+          url: 
 
         - certificate_url: https://www.edx.org
           date_end: ''
