@@ -235,7 +235,7 @@ sections:
       subtitle:
       text: |-
         To contact the author, please fell free to use any of the following methods.
-        <br/>
+      <br/>
       # Contact (add or remove contact options as necessary)
       email: danzuo2-c@my.cityu.edu.hk
       phone: +86 13539928698
