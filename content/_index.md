@@ -156,6 +156,15 @@ sections:
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2017-01-01'
+          description: '-- Use the prospect theory to analyse individual's choices and irrational behavior in the stock market.'
+          organization: 
+          organization_url: 
+          title: Research on the theory and practice of behavioral finance
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2017-01-01'
           description: '-- Analyse the statements of Guizhou Maotai Liquor Co., Ltd. by using the horizontal and vertical analysis methods, etc.
           -- Research the capital structure by using MM theory, trade-off theory and priority financing theory.'
           organization: 
