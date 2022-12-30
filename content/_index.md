@@ -138,7 +138,7 @@ sections:
           organization:  
           organization_url: 
           title: Research on venture capital and venture financing 
-          url: 
+          url: ''
 
         - certificate_url: https://www.edx.org
           date_end: ''
@@ -151,16 +151,7 @@ sections:
           organization: 
           organization_url: 
           title: Asset Management and Fund Allocation
-          url: 
-
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2020-01-01'
-          description: '-- Use the prospect theory to analyse individual's choices and irrational behavior in the stock market.'
-          organization: 
-          organization_url: 
-          title: Research on the theory and practice of behavioral finance
-          url: 
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
         - certificate_url: https://www.edx.org
           date_end: ''
@@ -170,7 +161,7 @@ sections:
           organization: 
           organization_url: 
           title: Research on Financial Statements and Corporate Capital Structure
-          url: 
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.edx.org
           date_end: '2018-01-01'
           date_start: '2016-01-01'
