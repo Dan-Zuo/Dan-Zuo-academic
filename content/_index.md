@@ -29,6 +29,18 @@ sections:
           description: 50%
           icon: camera-retro
           icon_pack: fas
+        - name: Office
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Python
+          description: 60%
+          icon: chart-line
+          icon_pack: fas
+        - name: SPSS
+          description: 60%
+          icon: camera-retro
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
