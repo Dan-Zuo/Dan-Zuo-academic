@@ -140,7 +140,7 @@ sections:
           title: Venture capital and Venture financing 
           url: ''
 
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: ''
           date_start: '2021-01-01'
           description: '-- Use descriptive statistics, Markowitz portfolio theory and utility function to complete an optimization case analysis,
@@ -235,6 +235,7 @@ sections:
       subtitle:
       text: |-
         To contact the author, please fell free to use any of the following methods.
+        <br/>
       # Contact (add or remove contact options as necessary)
       email: danzuo2-c@my.cityu.edu.hk
       phone: +86 13539928698
