@@ -1,5 +1,5 @@
 ---
-title: Writing technical content in Markdown
+title: Research on Using AdaBoost with K-means and SMOTE to Predict the Incidence of Diabetes 
 date: 2019-07-12
 math: true
 image:
