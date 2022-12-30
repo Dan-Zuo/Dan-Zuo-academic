@@ -151,7 +151,7 @@ sections:
           organization: 
           organization_url: 
           title: Asset Management and Fund Allocation
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: 
 
         - certificate_url: https://www.edx.org
           date_end: ''
@@ -160,7 +160,7 @@ sections:
           organization: 
           organization_url: 
           title: Research on the theory and practice of behavioral finance
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: 
 
         - certificate_url: https://www.edx.org
           date_end: ''
@@ -170,7 +170,7 @@ sections:
           organization: 
           organization_url: 
           title: Research on Financial Statements and Corporate Capital Structure
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: 
         - certificate_url: https://www.edx.org
           date_end: '2018-01-01'
           date_start: '2016-01-01'
@@ -180,7 +180,7 @@ sections:
           organization: 
           organization_url: 
           title: Valuation Projects
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: 'https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals'
     design:
       columns: '2'
   - block: collection
