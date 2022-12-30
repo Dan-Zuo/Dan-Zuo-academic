@@ -128,24 +128,29 @@ sections:
           date_start: '2022-07-16'
           description: 'Explored the reasons why investors supply cash for high-risk firms, how to mitigate investment risks, how to evaluate and analyze start-ups, and how to attract capital under the guidance of Shai Benjamin Bernstein,  a tenured professor of Harvard University. 
 
-          -- The purpose and motivation behind venture capital and financing. 
+            -- The purpose and motivation behind venture capital and financing. 
 
-          -- From the standpoint of venture capital: venture capital appraisal, investment strategy, angel investment. 
+           -- From the standpoint of venture capital: venture capital appraisal, investment strategy, angel investment. 
 
-          -- From the standpoint of startups: capital requirement, financing plan, equity dilution, important contract terms, IPO. 
+            -- From the standpoint of startups: capital requirement, financing plan, equity dilution, important contract terms, IPO. 
           
-          -- POCD Framework, The VC Valuation Method, VC Fund Structure, VC Deal & Decision Pipeline, Capitalization Tables.'
-          organization:  
-          organization_url: 
+            -- POCD Framework, The VC Valuation Method, VC Fund Structure, VC Deal & Decision Pipeline, Capitalization Tables.'
+          # organization:  
+          # organization_url: 
           title: Research on venture capital and venture financing 
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          description: 
+          -- Use descriptive statistics, Markowitz portfolio theory and utility function to complete an optimization case analysis,
+          obtain the optimal asset allocation under a certain return requirement.
+          -- Use Excel function and VBA function respectively to find the optimal portfolio. Generate efficient frontier and draw
+          capital market lines. Use Excel Solver to identify global minimum variance portfolios and tangent portfolios, maximizing
+          the Sharpe ratio as a constraint.
+          # organization: edX
+          # organization_url: https://www.edx.org
+          title: Asset Management and Fund Allocation
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -204,7 +209,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |2-
+      text: |-
         To contact the author, please fell free to use any of the following methods.
       # Contact (add or remove contact options as necessary)
       email: danzuo2-c@my.cityu.edu.hk
