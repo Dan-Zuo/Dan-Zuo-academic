@@ -137,7 +137,7 @@ sections:
           -- POCD Framework, The VC Valuation Method, VC Fund Structure, VC Deal & Decision Pipeline, Capitalization Tables.'
           organization:  
           organization_url: 
-          title: Research on venture capital and venture financing 
+          title: Venture capital and Venture financing 
           url: ''
 
         - certificate_url: https://www.edx.org
@@ -169,7 +169,7 @@ sections:
           -- Research the capital structure by using MM theory, trade-off theory and priority financing theory.'
           organization: 
           organization_url: 
-          title: Research on Financial Statements and Corporate Capital Structure
+          title: Financial Statements and Corporate Capital Structure
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.edx.org
           date_end: '2018-01-01'
