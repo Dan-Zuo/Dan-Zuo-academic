@@ -46,8 +46,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: ShenZhen
-          date_start: '2020-07-01'
-          date_end: '2020-07-25'
+          date_start: '2021-09-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
