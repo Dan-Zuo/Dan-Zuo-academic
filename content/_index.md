@@ -54,19 +54,19 @@ sections:
               * Responsible for the teaching of financial statement analysis, big data, fund investment, financial laws and other courses.
               * Preside over scientific research of the faculty team, and engage in other research projects as a core member.
               * Join the textbook compilation group and participate in various ability competitions and professional skill trainings.	
-        - title: Senior Software Engineer
-          company: HSBC
+        - title: Management Trainee
+          company: GF Securities Guangzhou Zengcheng business department 
           company_url: ''
           company_logo: org-x
           location: Guangzhou, China
-          date_start: '2021-08-05'
-          date_end: '2021-09-05'
+          date_start: '2020-05-01'
+          date_end: '2020-06-01'
           description: |2-
               Responsibilities include:
 
-              * Data Modelling
-              * Data Warehousing
-              * Data Security
+              * Participate in the company's morning meeting, master and track the daily dynamics of the capital market.
+              * Read and excavate the financial reports of listed companies, and write research reports.
+              
 
         - title: Management Trainee
           company: South China Normal University Management Office 
