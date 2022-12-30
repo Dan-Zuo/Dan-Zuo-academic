@@ -127,13 +127,13 @@ sections:
           date_end: '2022-11-16'
           date_start: '2022-07-16'
           description: 'Explored the reasons why investors supply cash for high-risk firms, how to mitigate investment risks, how to evaluate and analyze start-ups, and how to attract capital under the guidance of Shai Benjamin Bernstein,  a tenured professor of Harvard University. 
-
+          <br>
           -- The purpose and motivation behind venture capital and financing. 
-
+          <br>
           -- From the standpoint of venture capital: venture capital appraisal, investment strategy, angel investment. 
-
+          <br>
           -- From the standpoint of startups: capital requirement, financing plan, equity dilution, important contract terms, IPO. 
-          
+          <br>
           -- POCD Framework, The VC Valuation Method, VC Fund Structure, VC Deal & Decision Pipeline, Capitalization Tables.'
           organization:  
           organization_url: 
@@ -145,6 +145,7 @@ sections:
           date_start: '2021-01-01'
           description: '-- Use descriptive statistics, Markowitz portfolio theory and utility function to complete an optimization case analysis,
           obtain the optimal asset allocation under a certain return requirement. 
+          <br>
           -- Use Excel function and VBA function respectively to find the optimal portfolio. Generate efficient frontier and draw
           capital market lines. Use Excel Solver to identify global minimum variance portfolios and tangent portfolios, maximizing
           the Sharpe ratio as a constraint.'
