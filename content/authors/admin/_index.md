@@ -71,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dan zuo is a teacher of finance in China. Her research interests include Fin-tech, computer science and Behavior & Decision Making. She leads the research group in college, which develops Financial big data processing, financial instrument operating and maintainning.
 {style="text-align: justify;"}
