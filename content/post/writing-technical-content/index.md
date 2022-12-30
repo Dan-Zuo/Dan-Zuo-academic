@@ -8,7 +8,7 @@ image:
 
 authors:
   - admin
-
+  
 ---
 
 Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
