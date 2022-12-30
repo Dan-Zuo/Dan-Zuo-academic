@@ -180,7 +180,7 @@ sections:
           organization: 
           organization_url: 
           title: Valuation Projects
-          url: 'https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals'
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     design:
       columns: '2'
   - block: collection
