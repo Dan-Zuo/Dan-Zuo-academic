@@ -142,11 +142,11 @@ sections:
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: -- Use descriptive statistics, Markowitz portfolio theory and utility function to complete an optimization case analysis,
+          description: '-- Use descriptive statistics, Markowitz portfolio theory and utility function to complete an optimization case analysis,
           obtain the optimal asset allocation under a certain return requirement.
           -- Use Excel function and VBA function respectively to find the optimal portfolio. Generate efficient frontier and draw
           capital market lines. Use Excel Solver to identify global minimum variance portfolios and tangent portfolios, maximizing
-          the Sharpe ratio as a constraint.
+          the Sharpe ratio as a constraint.'
           organization: edX
           organization_url: https://www.edx.org
           title: Asset Management and Fund Allocation
