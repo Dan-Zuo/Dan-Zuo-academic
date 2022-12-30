@@ -141,7 +141,7 @@ sections:
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2018'
           description: '-- Use descriptive statistics, Markowitz portfolio theory and utility function to complete an optimization case analysis,
           obtain the optimal asset allocation under a certain return requirement. 
           -- Use Excel function and VBA function respectively to find the optimal portfolio. Generate efficient frontier and draw
@@ -153,15 +153,13 @@ sections:
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: '-- Use descriptive statistics, Markowitz portfolio theory and utility function to complete an optimization case analysis,
-          obtain the optimal asset allocation under a certain return requirement. 
-          -- Use Excel function and VBA function respectively to find the optimal portfolio. Generate efficient frontier and draw
-          capital market lines. Use Excel Solver to identify global minimum variance portfolios and tangent portfolios, maximizing
-          the Sharpe ratio as a constraint.'
+          date_start: '2016'
+          description: '-- Valuation of the Company: Use DCF and relative valuation method to value companies’ shares and report.
+          -- Valuation of Convertible Bonds: Valuate convertible bonds by using B-S model and binary tree.
+          -- Valuation of Portfolio: Valuate portfolios by using CAPM.'
           organization: 
           organization_url: 
-          title: Asset Management and Fund Allocation
+          title: Valuation Projects
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     design:
       columns: '2'
