@@ -124,9 +124,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org
-          date_end: ''
+          date_end: '2022-11-16'
           date_start: '2022-07-16'
-          description: '2022-11-16'
+          description: 'Explored the reasons why investors supply cash for high-risk firms, how to mitigate investment risks, how to evaluate and analyze start-ups, and how to attract capital under the guidance of Shai Benjamin Bernstein,  a tenured professor of Harvard University.
+          -- The purpose and motivation behind venture capital and financing. 
+          -- From the standpoint of venture capital: venture capital appraisal, investment strategy, angel investment. 
+          -- From the standpoint of startups: capital requirement, financing plan, equity dilution, important contract terms, IPO. 
+          -- POCD Framework, The VC Valuation Method, VC Fund Structure, VC Deal & Decision Pipeline, Capitalization Tables.'
           organization:  
           organization_url: 
           title: Research on venture capital and venture financing 
