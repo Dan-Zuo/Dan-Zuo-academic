@@ -139,9 +139,10 @@ sections:
           organization_url: 
           title: Research on venture capital and venture financing 
           url: ''
+
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2018-01-01'
+          date_start: '2021-01-01'
           description: '-- Use descriptive statistics, Markowitz portfolio theory and utility function to complete an optimization case analysis,
           obtain the optimal asset allocation under a certain return requirement. 
           -- Use Excel function and VBA function respectively to find the optimal portfolio. Generate efficient frontier and draw
@@ -151,8 +152,27 @@ sections:
           organization_url: 
           title: Asset Management and Fund Allocation
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+
         - certificate_url: https://www.edx.org
           date_end: ''
+          date_start: '2020-01-01'
+          description: '-- Use the prospect theory to analyse individual's choices and irrational behavior in the stock market.'
+          organization: 
+          organization_url: 
+          title: Research on the theory and practice of behavioral finance
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2017-01-01'
+          description: '-- Analyse the statements of Guizhou Maotai Liquor Co., Ltd. by using the horizontal and vertical analysis methods, etc.
+          -- Research the capital structure by using MM theory, trade-off theory and priority financing theory.'
+          organization: 
+          organization_url: 
+          title: Research on Financial Statements and Corporate Capital Structure
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: https://www.edx.org
+          date_end: '2018-01-01'
           date_start: '2016-01-01'
           description: '-- Valuation of the Company: Use DCF and relative valuation method to value companies’ shares and report.
           -- Valuation of Convertible Bonds: Valuate convertible bonds by using B-S model and binary tree.
