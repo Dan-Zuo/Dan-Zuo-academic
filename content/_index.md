@@ -126,7 +126,7 @@ sections:
         - certificate_url: https://www.coursera.org
           date_end: '2022-11-16'
           date_start: '2022-07-16'
-          description: 'Explored the reasons why investors supply cash for high-risk firms, how to mitigate investment risks, how to evaluate and analyze start-ups, and how to attract capital under the guidance of Shai Benjamin Bernstein,  a tenured professor of Harvard University. |2-
+          description: 'Explored the reasons why investors supply cash for high-risk firms, how to mitigate investment risks, how to evaluate and analyze start-ups, and how to attract capital under the guidance of Shai Benjamin Bernstein,  a tenured professor of Harvard University. 
 
           -- The purpose and motivation behind venture capital and financing. 
 
@@ -204,7 +204,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
+      text: |2-
         To contact the author, please fell free to use any of the following methods.
       # Contact (add or remove contact options as necessary)
       email: danzuo2-c@my.cityu.edu.hk
