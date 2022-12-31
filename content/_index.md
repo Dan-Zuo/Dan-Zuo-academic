@@ -166,7 +166,7 @@ sections:
         #   title: Research on the theory and practice of behavioral finance
         #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: ''
           date_start: '2017-01-01'
           description: '-- Analyse the statements of Guizhou Maotai Liquor Co., Ltd. by using the horizontal and vertical analysis methods, etc.  
@@ -176,7 +176,7 @@ sections:
           organization_url: 
           title: Financial Statements and Corporate Capital Structure
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: '2018-01-01'
           date_start: '2016-01-01'
           description: '-- Valuation of the Company: Use DCF and relative valuation method to value companies’ shares and report.
