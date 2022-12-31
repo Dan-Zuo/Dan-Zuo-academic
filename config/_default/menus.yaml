@@ -11,13 +11,13 @@ main:
     url: '#Skills'
     weight: 20
   - name: Experience
-    url: '#projects'
+    url: '#Experience'
     weight: 30
-  - name: Accomplish­ments
-    url: '#posts'
+  - name: accomplishments
+    url: '#accomplishments'
     weight: 40
   - name: Recent Publications
-    url: '#featured'
+    url: '#Recent Publications'
     weight: 50
   - name: Contact
     url: '#contact'
