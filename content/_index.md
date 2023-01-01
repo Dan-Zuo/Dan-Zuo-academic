@@ -71,7 +71,7 @@ sections:
         - title: Management Trainee
           company: GF Securities Guangzhou Zengcheng business department 
           company_url: ''
-          company_logo: org-x
+          company_logo: guangfa
           location: Guangzhou, China
           date_start: '2020-05-01'
           date_end: '2020-06-01'
@@ -99,7 +99,7 @@ sections:
         - title: Personal Loan Department and Sales     Department Manager
           company: ICBC
           company_url: ''
-          company_logo: org-x
+          company_logo: icbc
           location: Guangzhou, China
           date_start: '2017-07-01'
           date_end: '2017-09-01'
