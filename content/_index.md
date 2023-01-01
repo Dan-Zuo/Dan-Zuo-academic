@@ -58,7 +58,7 @@ sections:
         - title: Lecturer
           company: Guangzhou Huashang Vocational College
           company_url: ''
-          company_logo: org-x
+          company_logo: huashang
           location: Guangzhou, China
           date_start: '2021-09-01'
           date_end: ''
@@ -85,7 +85,7 @@ sections:
         - title: Management Trainee
           company: South China Normal University Management Office 
           company_url: ''
-          company_logo: org-x
+          company_logo: huananshifan
           location: Guangzhou, China
           date_start: '2019-06-01'
           date_end: '2019-08-01'
