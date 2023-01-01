@@ -24,7 +24,7 @@ sections:
           icon_pack: fab
         - name: Computer science
           description: 60%
-          icon: chart-line
+          icon: laptop-code
           icon_pack: fas
         - name: Psychology
           description: 50%
@@ -36,11 +36,11 @@ sections:
           icon_pack: fab
         - name: Python
           description: 60%
-          icon: python
+          icon: Python
           icon_pack: fas
         - name: SPSS
           description: 60%
-          icon: camera-retro
+          icon: chart-line
           icon_pack: fas
   - block: experience
     id: Experience
