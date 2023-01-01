@@ -28,7 +28,7 @@ sections:
           icon_pack: fas
         - name: Psychology
           description: 50%
-          icon: camera-retro
+          icon: brain
           icon_pack: fas
         - name: Office
           description: 90%
@@ -36,7 +36,7 @@ sections:
           icon_pack: fab
         - name: Python
           description: 60%
-          icon: Python
+          icon: python
           icon_pack: fab
         - name: SPSS
           description: 60%
