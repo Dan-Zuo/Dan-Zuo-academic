@@ -36,7 +36,7 @@ sections:
           icon_pack: fab
         - name: Python
           description: 60%
-          icon: chart-line
+          icon: python
           icon_pack: fas
         - name: SPSS
           description: 60%
