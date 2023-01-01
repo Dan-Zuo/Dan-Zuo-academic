@@ -20,8 +20,8 @@ sections:
       items:
         - name: Finance
           description: 90%
-          icon: r-project
-          icon_pack: fab
+          icon: coins
+          icon_pack: fas
         - name: Computer science
           description: 60%
           icon: laptop-code
@@ -37,7 +37,7 @@ sections:
         - name: Python
           description: 60%
           icon: Python
-          icon_pack: fas
+          icon_pack: fab
         - name: SPSS
           description: 60%
           icon: chart-line
