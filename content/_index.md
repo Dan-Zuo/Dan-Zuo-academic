@@ -32,7 +32,7 @@ sections:
           icon_pack: fas
         - name: Office
           description: 90%
-          icon: r-project
+          icon: microsoft
           icon_pack: fab
         - name: Python
           description: 60%
