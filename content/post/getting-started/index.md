@@ -1,5 +1,6 @@
 ---
-title: Research on Using AdaBoost with K-means and SMOTE to Predict the Incidence of Diabetes 
+title: Secondary Private Equity Funds in China
+summary: Secondary funds, Private equity, Venture capital, Chinese capital market.
 
 date: 2019-07-12
 math: true
