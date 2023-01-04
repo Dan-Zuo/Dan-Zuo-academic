@@ -6,6 +6,10 @@ subtitle: Diabetes is one of the most diseases in the world. In the last 40 year
 # Summary for listings and search engines
 summary: Classification; K-Means; SMOTE; Adaboost.
 
+
+# Link this post with a project
+projects: []
+
 date: 2019-07-12
 math: true
 image:
