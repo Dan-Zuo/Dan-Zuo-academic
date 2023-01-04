@@ -11,11 +11,7 @@ authors:
   
 ---
 
-Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
-
-**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
-
-On this page, you'll find some examples of the types of technical content that can be rendered with Wowchemy.
+Diabetes is one of the most diseases in the world. In the last 40 years, the number of persons worldwide with diabetes has tripled. There were 108 million patients over the age of 18 in 1980 and 422 million in 2014, accounting for 8.5% of the entire population at that time. Diabetes directly caused 1.5 million fatalities worldwide in 2012, with hyperglycemia-related illnesses accounting for 2.2 million deaths. Diabetes is expected to be the 7th greatest cause of death by 2030 according to the World Health Organization. As the risk of diabetes increases, machine learning algorithms are used to improve early diagnosis of diabetes, and various researchers have also done some corresponding algorithms for predicting diabetes machine learning. As a commonly used machine learning algorithm, AdaBoost integrated learning algorithm is superior in the diagnosis and prediction of diabetes mellitus. In this paper, it is proposed that a hybrid model to detect the risk of diabetes. This hybrid model is detected and eliminated by K-means-based outliers, synthesizing the distribution of minority data oversampling techniques (SMOTE), and Adaboost to classify diabetes. According to the final experimental result, the model prediction accuracy is 0.950 after using the hybrid model in the PIMA dataset. In the future, if a larger number of sample training data are utilized for training, the model's accuracy will improve.
 
 ## Examples
 
