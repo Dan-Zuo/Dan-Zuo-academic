@@ -126,7 +126,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: '2022-11-16'
           date_start: '2022-07-16'
           description: 'Explored the reasons why investors supply cash for high-risk firms, how to mitigate investment risks, how to evaluate and analyze start-ups, and how to attract capital under the guidance of Shai Benjamin Bernstein,  a tenured professor of Harvard University. 
