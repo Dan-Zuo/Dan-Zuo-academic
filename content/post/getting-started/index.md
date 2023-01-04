@@ -1,9 +1,9 @@
 ---
 title: Secondary Private Equity Funds in China
-subtitle: Combining the latest era background, this paper mainly focuses on the growth of secondary private equity funds in China's capital market. Starting with the current macro form and development status, it will provide an overview of the private equity market and secondary funds, followed by an introduction to the development and status of S funds in the global capital market. Following that, author will go over the history and current state of S funds in China's capital market. Analyze the advantages and characteristics of the S fund based on its theoretical essence and actual business. Finally, watch for the development of secondary private equity funds in China. As one of the few articles on secondary private equity funds and transactions, the discussion in this paper enriches the content and literature of secondary private equity investment. 
+
 
 # Summary for listings and search engines
-summary: secondary funds, private equity, venture capital, Chinese capital market.
+summary: Secondary funds, Private equity, Venture capital, Chinese capital market.
 
 # Link this post with a project
 projects: []
@@ -31,7 +31,7 @@ image:
 authors:
   - admin
   
-  
+subtitle: Combining the latest era background, this paper mainly focuses on the growth of secondary private equity funds in China's capital market. Starting with the current macro form and development status, it will provide an overview of the private equity market and secondary funds, followed by an introduction to the development and status of S funds in the global capital market. Following that, author will go over the history and current state of S funds in China's capital market. Analyze the advantages and characteristics of the S fund based on its theoretical essence and actual business. Finally, watch for the development of secondary private equity funds in China. As one of the few articles on secondary private equity funds and transactions, the discussion in this paper enriches the content and literature of secondary private equity investment. 
 
 tags:
   - Academic
