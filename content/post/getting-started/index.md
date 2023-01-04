@@ -32,7 +32,7 @@ authors:
   - admin
   
 subtitle: Combining the latest era background, this paper mainly focuses on the growth of secondary private equity funds in China's capital market. Starting with the current macro form and development status, it will provide an overview of the private equity market and secondary funds, followed by an introduction to the development and status of S funds in the global capital market. Following that, author will go over the history and current state of S funds in China's capital market. Analyze the advantages and characteristics of the S fund based on its theoretical essence and actual business. Finally, watch for the development of secondary private equity funds in China. As one of the few articles on secondary private equity funds and transactions, the discussion in this paper enriches the content and literature of secondary private equity investment. 
-{style="text-align: justify;"}
+{{style="text-align: justify;"}}
 
 tags:
   - Academic
