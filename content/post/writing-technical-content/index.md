@@ -171,7 +171,7 @@ f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
 1-p_{0}^{*} & \text{if }k=0.\end{cases}
 $$
 
-{{< /math >}}
+<!-- {{< /math >}}
 
 ### Diagrams
 
@@ -187,7 +187,7 @@ An example **flowchart**:
     C -->|Two| E[Result 2]
     ```
 
-renders as
+<!-- renders as
 
 ```mermaid
 graph TD
@@ -197,7 +197,7 @@ C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
 
-An example **sequence diagram**:
+<!-- An example **sequence diagram**:
 
     ```mermaid
     sequenceDiagram
@@ -208,10 +208,10 @@ An example **sequence diagram**:
     Note right of John: Rational thoughts!
     John-->>Alice: Great!
     John->>Bob: How about you?
-    Bob-->>John: Jolly good!
+    Bob-->>John: Jolly good! -->
     ```
 
-renders as
+<!-- renders as
 
 ```mermaid
 sequenceDiagram
@@ -222,10 +222,10 @@ end
 Note right of John: Rational thoughts!
 John-->>Alice: Great!
 John->>Bob: How about you?
-Bob-->>John: Jolly good!
+Bob-->>John: Jolly good! --> -->
 ```
 
-An example **Gantt diagram**:
+<!-- An example **Gantt diagram**:
 
     ```mermaid
     gantt
@@ -248,10 +248,10 @@ Active        :active,  des2, 2014-01-07, 3d
 Parallel 1   :         des3, after des1, 1d
 Parallel 2   :         des4, after des1, 1d
 Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
+Parallel 4   :         des6, after des4, 1d -->
 ```
 
-An example **class diagram**:
+<!-- An example **class diagram**:
 
     ```mermaid
     classDiagram
@@ -268,9 +268,9 @@ An example **class diagram**:
     Class01 : int chimp
     Class01 : int gorilla
     Class08 <--> C2: Cool label
-    ```
+    ``` -->
 
-renders as
+<!-- renders as
 
 ```mermaid
 classDiagram
@@ -286,10 +286,10 @@ Class07 : Object[] elementData
 Class01 : size()
 Class01 : int chimp
 Class01 : int gorilla
-Class08 <--> C2: Cool label
+Class08 <--> C2: Cool label -->
 ```
 
-An example **state diagram**:
+<!-- An example **state diagram**:
 
     ```mermaid
     stateDiagram
@@ -310,9 +310,9 @@ Still --> [*]
 Still --> Moving
 Moving --> Still
 Moving --> Crash
-Crash --> [*]
+Crash --> [*] -->
 ```
-
+<!-- 
 ### Todo lists
 
 You can even write your todo lists in Markdown too:
@@ -327,9 +327,9 @@ renders as
 
 - [x] Write math example
   - [x] Write diagram example
-- [ ] Do something else
+- [ ] Do something else --> -->
 
-### Tables
+<!-- ### Tables
 
 Save your spreadsheet as a CSV file in your page's folder and then render it by adding the _Table_ shortcode to your page:
 
@@ -359,7 +359,7 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
 
 ### Spoilers
 
-Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked. -->
+Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked. --> -->
 
 <!-- ```markdown
 {{</* spoiler text="Click to view the spoiler" */>}}
