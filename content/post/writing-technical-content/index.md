@@ -15,7 +15,7 @@ Diabetes is one of the most diseases in the world. In the last 40 years, the num
 {style="text-align: justify;"} 
 
 
-## Examples
+<!-- ## Examples
 
 ### Code
 
@@ -359,9 +359,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
 
 ### Spoilers
 
-Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.
+Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked. -->
 
-```markdown
+<!-- ```markdown
 {{</* spoiler text="Click to view the spoiler" */>}}
 You found me!
 {{</* /spoiler */>}}
@@ -387,6 +387,6 @@ renders as
 
 {{< icon name="terminal" pack="fas" >}} Terminal  
 {{< icon name="python" pack="fab" >}} Python  
-{{< icon name="r-project" pack="fab" >}} R
+{{< icon name="r-project" pack="fab" >}} R -->
 
 ### Did you find this page helpful? Consider sharing it 🙌
