@@ -180,6 +180,7 @@ sections:
           date_end: '2018-01-01'
           date_start: '2016-01-01'
           description: '-- Valuation of the Company: Use DCF and relative valuation method to value companies’ shares and report.
+          <br>
           -- Valuation of Convertible Bonds: Valuate convertible bonds by using B-S model and binary tree.
           <br>
           -- Valuation of Portfolio: Valuate portfolios by using CAPM.'
