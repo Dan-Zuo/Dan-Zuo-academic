@@ -1,7 +1,23 @@
 ---
+title: Research on Using AdaBoost with K-means and SMOTE to Predict the Incidence of Diabetes 
+
+date: 2019-07-12
+math: true
+image:
+  placement: 2
+  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+
+authors:
+  - admin
+  
+---
+
+Diabetes is one of the most diseases in the world. In the last 40 years, the number of persons worldwide with diabetes has tripled. There were 108 million patients over the age of 18 in 1980 and 422 million in 2014, accounting for 8.5% of the entire population at that time. Diabetes directly caused 1.5 million fatalities worldwide in 2012, with hyperglycemia-related illnesses accounting for 2.2 million deaths. Diabetes is expected to be the 7th greatest cause of death by 2030 according to the World Health Organization. As the risk of diabetes increases, machine learning algorithms are used to improve early diagnosis of diabetes, and various researchers have also done some corresponding algorithms for predicting diabetes machine learning. As a commonly used machine learning algorithm, AdaBoost integrated learning algorithm is superior in the diagnosis and prediction of diabetes mellitus. In this paper, it is proposed that a hybrid model to detect the risk of diabetes. This hybrid model is detected and eliminated by K-means-based outliers, synthesizing the distribution of minority data oversampling techniques (SMOTE), and Adaboost to classify diabetes. According to the final experimental result, the model prediction accuracy is 0.950 after using the hybrid model in the PIMA dataset. In the future, if a larger number of sample training data are utilized for training, the model's accuracy will improve. 
+{style="text-align: justify;"} 
+
+<!-- ---
 title: Secondary Private Equity Funds in China
 subtitle: Combining the latest era background, this paper mainly focuses on the growth of secondary private equity funds in China's capital market. Starting with the current macro form and development status, it will provide an overview of the private equity market and secondary funds, followed by an introduction to the development and status of S funds in the global capital market. Following that, author will go over the history and current state of S funds in China's capital market. Analyze the advantages and characteristics of the S fund based on its theoretical essence and actual business. Finally, watch for the development of secondary private equity funds in China. As one of the few articles on secondary private equity funds and transactions, the discussion in this paper enriches the content and literature of secondary private equity investment. 
-{style="text-align: justify;"} 
 
 # Summary for listings and search engines
 summary: Secondary funds, Private equity, Venture capital, Chinese capital market.
@@ -30,7 +46,7 @@ image:
   preview_only: false
 
 authors:
-  - admin
+  - admin -->
   
   
 
@@ -110,3 +126,5 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. -->
+
+### Did you find this page helpful? Consider sharing it 🙌
